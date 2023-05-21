@@ -1,3 +1,3 @@
 # javabasic
-java oops concept
-java basics
+java basics and java oops concept
+ 
