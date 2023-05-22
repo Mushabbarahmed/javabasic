@@ -1,7 +1,7 @@
 # javabasic
 Java basics and java oops concept
 
-software application(i.e IDE) for java in which you can write your Java programs are:
+software application(i.e IDE) for java in which you can run your Java programs are:
 1:NetBeans
 2:Intelligence IDEA
 3:BLUEJ
@@ -13,9 +13,9 @@ To install IntelligenceIDEA copy the below link:
 
 
                 INDEX :
-1 : Variables and datatypes
-2 : java input class
-3 : operator
-4 : datatype increment and decrement
-5: 
+        1 : Variables and datatypes
+        2 : java input class
+        3 : operator
+        4 : datatype increment and decrement
+        5: 
 
